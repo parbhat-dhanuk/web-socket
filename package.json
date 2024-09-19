@@ -1,5 +1,5 @@
 {
-  "name": "web-socket",
+  "name": "new-folder",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "express": "^4.21.0",
+    "mongoose": "^8.6.3",
     "socket.io": "^4.7.5"
   }
 }
